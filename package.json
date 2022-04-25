@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zero",
-  "license": "Nginx",
+  "author": "SparkFamm",
+  "license": "",
   "keywords": [
     "discord",
     "Easy",
